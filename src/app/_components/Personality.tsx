@@ -6,7 +6,7 @@ type Props = {};
 
 const Personality = (props: Props) => {
   return (
-    <Card title="Personality"color="bg-green-200">
+    <Card title="Personality"color="bg-amber-200">
       <div>
         <p className="text-lg">Protagonist (ENFJ)</p>
         <p className="pb-2">
