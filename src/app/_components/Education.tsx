@@ -5,7 +5,7 @@ type Props = {};
 
 const Education = (props: Props) => {
   return (
-    <Card title="Education">
+    <Card title="Education" color="bg-amber-200">
       <div className="relative border-l-4 border-blue-500">
         <div className="mb-5 ml-4">
           <div className="absolute -left-2 mt-1.5 h-3 w-3 rounded-full border border-white bg-blue-500"></div>
